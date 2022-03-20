@@ -14,10 +14,8 @@ function CrudButtons(props) {
         <GrDocumentUpdate />
       </button>
 
-      <button
-        className="crudButtons"
-        onClick={() => props.deleteMonster(props.monster.id)}
-      >
+      <button className="crudButtons" 
+      onClick={() => props.deleteMonster(props.monster.id)}  >
         <FcEmptyTrash />{" "}
       </button>
     </div>
