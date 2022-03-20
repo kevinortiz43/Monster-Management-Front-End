@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Monster-Management-Front-End/static/css/main.4219c63e.css",
-    "main.js": "/Monster-Management-Front-End/static/js/main.62cf7c1c.js",
-    "index.html": "/Monster-Management-Front-End/index.html",
-    "main.4219c63e.css.map": "/Monster-Management-Front-End/static/css/main.4219c63e.css.map",
-    "main.62cf7c1c.js.map": "/Monster-Management-Front-End/static/js/main.62cf7c1c.js.map"
+    "main.css": "/static/css/main.4219c63e.css",
+    "main.js": "/static/js/main.9054bc12.js",
+    "index.html": "/index.html",
+    "main.4219c63e.css.map": "/static/css/main.4219c63e.css.map",
+    "main.9054bc12.js.map": "/static/js/main.9054bc12.js.map"
   },
   "entrypoints": [
     "static/css/main.4219c63e.css",
-    "static/js/main.62cf7c1c.js"
+    "static/js/main.9054bc12.js"
   ]
 }
