@@ -8,7 +8,7 @@ import ViewMonster from "./ViewMonster";
 import NavigateButtons from "./NavigateButtons";
 import TableMonsters from "./TableMonsters";
 import Nav from "./Nav";
-import Error from "./Error";
+// import Error from "./Error";
 
 export default function Layout() {
   return (
@@ -18,7 +18,7 @@ export default function Layout() {
       <div className="App">
         <Routes>
           <Route path="/" element={<ViewMonster />} />
-          <Route path="*" element={<Error />} />
+          <Route path="*" element={<ViewMonster />} />
           <Route path="/add-monster" element={<AddMonster />} />
           <Route path="/update-monster/:id" element={<UpdateMonster />} />
           <Route path="/delete-monster/:id" element={<DeleteMonster />} />
