@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const Monster_BASE_URL = "https://monster-management-system.herokuapp.com";
+const Monster_BASE_URL = "https://monster-management-system.herokuapp.com/monster";
 
 class MonsterService {
   getMonsters() {
