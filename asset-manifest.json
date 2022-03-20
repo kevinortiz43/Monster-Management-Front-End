@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/github.io/static/css/main.4219c63e.css",
-    "main.js": "/github.io/static/js/main.e5cb718d.js",
-    "index.html": "/github.io/index.html",
-    "main.4219c63e.css.map": "/github.io/static/css/main.4219c63e.css.map",
-    "main.e5cb718d.js.map": "/github.io/static/js/main.e5cb718d.js.map"
+    "main.css": "/Monster-Management-Front-End/static/css/main.4219c63e.css",
+    "main.js": "/Monster-Management-Front-End/static/js/main.62cf7c1c.js",
+    "index.html": "/Monster-Management-Front-End/index.html",
+    "main.4219c63e.css.map": "/Monster-Management-Front-End/static/css/main.4219c63e.css.map",
+    "main.62cf7c1c.js.map": "/Monster-Management-Front-End/static/js/main.62cf7c1c.js.map"
   },
   "entrypoints": [
     "static/css/main.4219c63e.css",
-    "static/js/main.e5cb718d.js"
+    "static/js/main.62cf7c1c.js"
   ]
 }
