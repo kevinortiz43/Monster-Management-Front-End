@@ -19,7 +19,7 @@ export default function Layout() {
         <Routes>
           <Route path="/" element={<ViewMonster />} />
           <Route path="*" element={<ViewMonster/>} />
-          <Route path="/error" element={<Error />} />
+          {/* <Route path="/error" element={<Error />} /> */}
           <Route path="/add-monster" element={<AddMonster />} />
           <Route path="/update-monster/:id" element={<UpdateMonster />} />
           <Route path="/delete-monster/:id" element={<DeleteMonster />} />
