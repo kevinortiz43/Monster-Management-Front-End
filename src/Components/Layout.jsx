@@ -17,7 +17,7 @@ export default function Layout() {
       <NavigateButtons />
       <div className="App">
         <Routes>
-          <Route path="/" element={<ViewMonster />} />
+          <Route path="/Monster-Management-Front-End" element={<ViewMonster />} />
           <Route path="*" element={<ViewMonster />} />
           <Route path="/add-monster" element={<AddMonster />} />
           <Route path="/update-monster/:id" element={<UpdateMonster />} />
