@@ -6,7 +6,7 @@ Live site: https://kevinortiz43.github.io/Monster-Management-Front-End/
 
 ## Problem Statement and End User
 
-This app is designed for those who love to use Monsters in a dungeons and dragons campaingn! It allows people to search for and organize monsters by different classes and properties.
+This app is designed for those who love to use Monsters in a dungeons and dragons campaign! It allows people to search for and organize monsters by different classes and properties.
 
 ## Features
 
