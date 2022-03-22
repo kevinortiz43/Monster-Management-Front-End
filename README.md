@@ -19,13 +19,16 @@ This app is designed for those who love to use Monsters in a dungeons and dragon
 
 - [ReactJS](https://reactjs.org/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
-- [MySQL](https://www.mysql.com/) -[Java 17](https://www.oracle.com/java/)
-- [Material UI](https://mui.com/) -[React Icons](https://react-icons.github.io/react-icons/) -[Axios](https://axios-http.com/docs/intro)
+- [MySQL](https://www.mysql.com/)
+- [Java 17](https://www.oracle.com/java/)
+- [Material UI](https://mui.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Axios](https://axios-http.com/docs/intro)
 
 ## Features to add soon.
 
-- I want to add a contact us page.
-- I want to add all monsters that are available in DND 5th edition.
+- I will a contact us page.
+- I will to add all monsters that are available in DND 5th edition.
 - I will add a login page.
 
 ## Author
